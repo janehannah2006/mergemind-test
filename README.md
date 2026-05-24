@@ -1,1 +1,1 @@
-# mergemind-test
+Testing MergeMind AI
